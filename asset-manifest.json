@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/mmvo/static/css/main.fe9bc4fa.chunk.css",
+    "main.css": "/mmvo/static/css/main.1e714666.chunk.css",
     "main.js": "/mmvo/static/js/main.7c2d6eb0.chunk.js",
     "main.js.map": "/mmvo/static/js/main.7c2d6eb0.chunk.js.map",
     "runtime-main.js": "/mmvo/static/js/runtime-main.225ce7b3.js",
@@ -8,9 +8,9 @@
     "static/js/2.cb980b5e.chunk.js": "/mmvo/static/js/2.cb980b5e.chunk.js",
     "static/js/2.cb980b5e.chunk.js.map": "/mmvo/static/js/2.cb980b5e.chunk.js.map",
     "index.html": "/mmvo/index.html",
-    "precache-manifest.6c7108eca515605613caa3658fd2370f.js": "/mmvo/precache-manifest.6c7108eca515605613caa3658fd2370f.js",
+    "precache-manifest.51ba82c4be7db052b93d34ed73aa29ea.js": "/mmvo/precache-manifest.51ba82c4be7db052b93d34ed73aa29ea.js",
     "service-worker.js": "/mmvo/service-worker.js",
-    "static/css/main.fe9bc4fa.chunk.css.map": "/mmvo/static/css/main.fe9bc4fa.chunk.css.map",
+    "static/css/main.1e714666.chunk.css.map": "/mmvo/static/css/main.1e714666.chunk.css.map",
     "static/js/2.cb980b5e.chunk.js.LICENSE.txt": "/mmvo/static/js/2.cb980b5e.chunk.js.LICENSE.txt",
     "static/media/founder.jpg": "/mmvo/static/media/founder.6a5687dc.jpg",
     "static/media/img1.jpg": "/mmvo/static/media/img1.1f38e9c3.jpg",
@@ -38,7 +38,7 @@
   "entrypoints": [
     "static/js/runtime-main.225ce7b3.js",
     "static/js/2.cb980b5e.chunk.js",
-    "static/css/main.fe9bc4fa.chunk.css",
+    "static/css/main.1e714666.chunk.css",
     "static/js/main.7c2d6eb0.chunk.js"
   ]
 }
